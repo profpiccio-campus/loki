@@ -7,6 +7,7 @@ semplice sito statico.
 ## Cosa fa
 
 - Più esercizi per compito, ciascuno con consegna, codice di partenza e output separati.
+- test
 - Editor con colori: **commenti in verde**, stringhe, parole chiave e numeri evidenziati.
 - Esegue Python nel browser con due motori a scelta (vedi sotto): uno leggero in
   Python puro, uno completo con **numpy e pandas**.
